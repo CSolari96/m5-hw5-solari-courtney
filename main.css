@@ -19,6 +19,16 @@ body {
 header {
 	background-color: #5f419a;
 	color: #ffffff;
+	text-align: center;
+}
+
+main {
+	text-align: center;
+}
+
+section {
+	display: flex;
+	justify-content: space-around;
 }
 
 .box {
