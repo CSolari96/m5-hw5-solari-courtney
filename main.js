@@ -38,3 +38,9 @@ box2.addEventListener("click", function() {
   result.innerHTML = "DING DING DING - We have a winner";
   main.appendChild(result);
 });
+
+// Listen for the users to click on box3 and display result message
+box3.addEventListener("click", function() {
+  result.innerHTML = "Oops, better luck next time";
+  main.appendChild(result);
+});
