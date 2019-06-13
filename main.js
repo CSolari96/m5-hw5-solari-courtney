@@ -15,7 +15,7 @@ for (i = 0; i < box.length; i++) {
   // When the mouse enters the boxes, change all background colors
   box[i].addEventListener("mouseenter", function() {
     for (x = 0; x < box.length; x++) {
-      box[x].style.backgroundColor = "#c1c1c1";
+      box[x].style.backgroundColor = "#f7c1bb";
     }
   });
 
