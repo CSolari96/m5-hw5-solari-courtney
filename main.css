@@ -5,8 +5,34 @@
 	Green: #add037;
 */
 
+/* Reset Rule */
 * {
 	border: 0;
 	margin: 0;
 	padding: 0;
+}
+
+body {
+	color: #5f419a;
+}
+
+header {
+	background-color: #5f419a;
+	color: #ffffff;
+}
+
+.box {
+	border: 3px #5f419a solid;
+}
+
+#box1 {
+	background-color: #f1eb16;
+}
+
+#box2 {
+	background-color: #83ccb3;
+}
+
+#box3 {
+	background-color: #add037;
 }
