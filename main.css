@@ -43,10 +43,11 @@ section {
 }
 
 .box {
-	border: 3px #5f419a solid;
+	border: 6px #5f419a solid;
 	width: 50%;
 	padding: 3%;
 	margin: 3%;
+	font-weight: bold;
 }
 
 #box1 {
